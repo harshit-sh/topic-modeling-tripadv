@@ -3,7 +3,7 @@ Topic modeling of TripAdvisor hotel reviews ([Link](http://times.cs.uiuc.edu/~wa
 
 **Libraries used**
 
-Used [gensim](https://en.wikipedia.org/wiki/Gensim) (for [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) model), nltk ([NLP](https://en.wikipedia.org/wiki/Natural_language_processing) library), [pyLDAvis](https://github.com/bmabey/pyLDAvis) (for topic model visualisation), [pandas](http://pandas.pydata.org/) for dataframes.
+Used [gensim](https://radimrehurek.com/gensim) (for [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) model), [NLTK](http://www.nltk.org/) ([NLP](https://en.wikipedia.org/wiki/Natural_language_processing) library for text pre-processing), [pyLDAvis](https://github.com/bmabey/pyLDAvis) (for topic model visualisation), [pandas](http://pandas.pydata.org/) for dataframes.
 
 
 **Topic Visualisation**
