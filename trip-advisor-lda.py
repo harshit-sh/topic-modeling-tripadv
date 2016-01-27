@@ -4,7 +4,8 @@
 
 '''
 This script takes a single JSON file from the Trip Advisor reviews dataset.
-(Link to dataset: http://times.cs.uiuc.edu/~wang296/Data)
+(Link to dataset: http://times.cs.uiuc.edu/~wang296/Data). Refer to the 
+ipython notebook in the repo to understand the workflow.
 
 Make sure the "data_file" variable is updated to the file chosen for review after
 downloading the dataset.
